@@ -9,6 +9,8 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-image: url(imgs/background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   color: rgb(119, 114, 114);
 }
 
